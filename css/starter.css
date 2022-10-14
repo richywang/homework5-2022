@@ -224,7 +224,7 @@ body{
     align-items: flex-end; 
   }
 
-  .gallery {
+  .gallery, #gallery {
     display: none;
   }
 
